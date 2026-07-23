@@ -40,12 +40,12 @@
 <p align="center">
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/?username=HotSh0t2&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"> 
+<img src="https://github-stats-extended.vercel.app/api/?username=IlanBeigel&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"> 
 </p> 
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HotSh0t2&langs_count=4&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"> 
-</p> 
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IlanBeigel&langs_count=4&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed"> 
+</p>
 
 
 
